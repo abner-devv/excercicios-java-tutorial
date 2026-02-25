@@ -83,7 +83,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 import java.util.Scanner;
 
-public class ExercicioTwo {
+public class ExercicioDataEHora2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
