@@ -1,0 +1,10 @@
+Produto: Tv
+Quantidade: 20
+Valor unitario: 200.0
+Total: 4000.0
+
+Produto: Moto
+Quantidade: 10
+Valor unitario: 100.0
+Total: 1000.0
+
