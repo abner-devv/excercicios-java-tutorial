@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/br.com.abner.exercicios.arraylist/br.com.abner.exercicios.arraylist.iml" filepath="$PROJECT_DIR$/br.com.abner.exercicios.arraylist/br.com.abner.exercicios.arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/br.com.abner.exercicios.dateAndTime/br.com.abner.exercicios.dateAndTime.iml" filepath="$PROJECT_DIR$/br.com.abner.exercicios.dateAndTime/br.com.abner.exercicios.dateAndTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/br.com.abner.exercicios.file/br.com.abner.exercicios.file.iml" filepath="$PROJECT_DIR$/br.com.abner.exercicios.file/br.com.abner.exercicios.file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.com.abner.exercicios.hashset/br.com.abner.exercicios.hashset.iml" filepath="$PROJECT_DIR$/br.com.abner.exercicios.hashset/br.com.abner.exercicios.hashset.iml" />
       <module fileurl="file://$PROJECT_DIR$/br.com.abner.exercicios.io/br.com.abner.exercicios.io.iml" filepath="$PROJECT_DIR$/br.com.abner.exercicios.io/br.com.abner.exercicios.io.iml" />
       <module fileurl="file://$PROJECT_DIR$/br.com.abner.exercicios.nio/br.com.abner.exercicios.nio.iml" filepath="$PROJECT_DIR$/br.com.abner.exercicios.nio/br.com.abner.exercicios.nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java tutorial.iml" filepath="$PROJECT_DIR$/.idea/java tutorial.iml" />
