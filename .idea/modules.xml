@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/br.com.abner.exercicio.iterator/br.com.abner.exercicio.iterator.iml" filepath="$PROJECT_DIR$/br.com.abner.exercicio.iterator/br.com.abner.exercicio.iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/br.com.abner.exercicios.arraylist/br.com.abner.exercicios.arraylist.iml" filepath="$PROJECT_DIR$/br.com.abner.exercicios.arraylist/br.com.abner.exercicios.arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/br.com.abner.exercicios.dateAndTime/br.com.abner.exercicios.dateAndTime.iml" filepath="$PROJECT_DIR$/br.com.abner.exercicios.dateAndTime/br.com.abner.exercicios.dateAndTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/br.com.abner.exercicios.file/br.com.abner.exercicios.file.iml" filepath="$PROJECT_DIR$/br.com.abner.exercicios.file/br.com.abner.exercicios.file.iml" />
